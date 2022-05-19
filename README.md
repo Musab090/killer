@@ -6,7 +6,7 @@
 
 2007-8-9-10 OK ID Tools Piad❣️
 
-WhatsApp : +8801979565435
+WhatsApp : +92 3126966943
 
 BD : 1 Mouth 500 TK
 PK : 1 Mouth 500 Money
@@ -21,6 +21,6 @@ Any Country : 1 Mouth USA 15 Dollar
 😈 pip2 install requests
 😈 pip2 install mechanize
 😈 pkg install git
-😈 git clone https://github.com/KILLER-BOY-202/KILLER-C-PRO
+😈 git clone https://github.com/Musab090/killer
 😈 cd KILLER-C-PRO
-😈 python2 Killer.py
+😈 python KILLER-C-PRO
